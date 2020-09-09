@@ -30,7 +30,7 @@ subtitle = ""
   icon = "node-js"
   icon_pack = "fas"
   name = "NodeJS"
-  description = "10%"
+  description = ""
 [[feature]]
   icon = "java"
   icon_pack = "fas"

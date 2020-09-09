@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:htvic17150@cusc.ctu.edu.vn"  # For a direct email link, use "mailto:test@example.org".
-- icon: facebook
+- icon: facebook-f
   icon_pack: ai
   link: https://www.facebook.com/vi.huynh.1675/
 - icon: github
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Huynh Trieu Vi is a graduate information technology engineer at Can Tho University. He is interested in developing web and mobile applications. Accompanying the development of technology 4.0 wishes to incorporate artificial intelligence into web and mobile applications.
+Huynh Trieu Vi is a graduate information technology engineer at Can Tho University. He is interested in developing web and mobile applications. Accompanying the development of technology 4.0 wishes to incorporate artificial intelligence into web and mobile applications. . A complete CV is available [here](https://drive.google.com/file/d/1DyoHfKtmOUNCf6xQ964KpuPfgEjxMV-0/view?usp=sharing)
